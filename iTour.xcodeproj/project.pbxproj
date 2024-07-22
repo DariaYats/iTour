@@ -14,6 +14,7 @@
 		4373EC362C495DDA0025F93E /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4373EC352C495DDA0025F93E /* Destination.swift */; };
 		4373EC3A2C4AA1290025F93E /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4373EC392C4AA1290025F93E /* EditDestinationView.swift */; };
 		4373EC3C2C4E3B170025F93E /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4373EC3B2C4E3B170025F93E /* DestinationListingView.swift */; };
+		4373EC402C4E54860025F93E /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4373EC3F2C4E54860025F93E /* Sight.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		4373EC352C495DDA0025F93E /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		4373EC392C4AA1290025F93E /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 		4373EC3B2C4E3B170025F93E /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
+		4373EC3F2C4E54860025F93E /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			children = (
 				4373EC272C494C0B0025F93E /* iTourApp.swift */,
 				4373EC292C494C0B0025F93E /* ContentView.swift */,
+				4373EC3F2C4E54860025F93E /* Sight.swift */,
 				4373EC352C495DDA0025F93E /* Destination.swift */,
 				4373EC3B2C4E3B170025F93E /* DestinationListingView.swift */,
 				4373EC392C4AA1290025F93E /* EditDestinationView.swift */,
@@ -149,6 +152,7 @@
 				4373EC2A2C494C0B0025F93E /* ContentView.swift in Sources */,
 				4373EC282C494C0B0025F93E /* iTourApp.swift in Sources */,
 				4373EC362C495DDA0025F93E /* Destination.swift in Sources */,
+				4373EC402C4E54860025F93E /* Sight.swift in Sources */,
 				4373EC3A2C4AA1290025F93E /* EditDestinationView.swift in Sources */,
 				4373EC3C2C4E3B170025F93E /* DestinationListingView.swift in Sources */,
 			);

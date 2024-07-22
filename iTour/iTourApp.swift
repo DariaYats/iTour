@@ -17,3 +17,4 @@ struct iTourApp: App {
         .modelContainer(for: Destination.self)
     }
 }
+
